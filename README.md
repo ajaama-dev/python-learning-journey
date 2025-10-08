@@ -20,7 +20,7 @@ Combine **computer science fundamentals** with **hands-on projects**:
 - Enhancements → Demonstrate initiative, creativity, and business focus
 
 ## 📈 Progress Tracking
-- [ ] Week 0 — Functions
+- [X] Week 0 — Functions
 - [ ] Week 1 — Conditionals
 - [ ] Week 2 — Loops
 - [ ] Week 3 — Exceptions
