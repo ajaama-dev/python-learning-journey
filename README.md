@@ -11,7 +11,6 @@ This repository documents my progress learning Python as part of my 8-month **Pr
 ## 📂 Repository Structure
 - `cs50p/` → Problem sets and projects from CS50P
 - `100-days-projects/` → Selected projects from 100 Days of Python
-- `enhanced-projects/` → Expanded projects with extra features
 - `notes/` → Personal notes, study guides, and reflections
 
 ## 🚀 Learning Philosophy
@@ -21,9 +20,17 @@ Combine **computer science fundamentals** with **hands-on projects**:
 - Enhancements → Demonstrate initiative, creativity, and business focus
 
 ## 📈 Progress Tracking
-- ✅ Week 1-2: Functions, conditionals, variables  
-- ✅ Week 3-4: Loops, algorithms, string manipulation  
-- 🔄 Ongoing: Data structures, OOP, file operations, automation  
+- [ ] Week 0 — Functions
+- [ ] Week 1 — Conditionals
+- [ ] Week 2 — Loops
+- [ ] Week 3 — Exceptions
+- [ ] Week 4 — Libraries
+- [ ] Week 5 — Unit Tests
+- [ ] Week 6 — File I/O
+- [ ] Week 7 — Regular Expressions
+- [ ] Week 8 — Object-Oriented Programming
+- [ ] Week 9 — Et Cetera
+
 
 ---
 
